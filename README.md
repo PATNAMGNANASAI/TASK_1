@@ -6,6 +6,7 @@ Project Overview: Exploratory Data Analysis (EDA) on the Iris Dataset
 Objective: To explore and understand the characteristics, distributions, correlations, and outliers of the Iris dataset using pandas, numpy, matplotlib, and seaborn. The analysis will include generating visualizations such as histograms, scatter plots, and heatmaps to gain insights into the data.
 
 Steps:
+
 1.Load the Dataset
 
 2.Load the Iris dataset using seaborn.
@@ -22,7 +23,6 @@ Check for Correlations
 
 5.Calculate the correlation matrix.
 Visualize the correlation matrix using a heatmap.
-Scatter Plots
 
 6.Create scatter plots to visualize relationships between different pairs of numerical features.
 Identify and Visualize Outliers
